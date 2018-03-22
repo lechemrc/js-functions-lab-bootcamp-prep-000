@@ -10,13 +10,13 @@ function happyHolidaysTo(holiday, name) {
 }
 
 function happyHolidayTo(holiday, name) {
-  holiday = "Easter"
-  name2 = "Percie"
+  holiday = "Independence Day"
+  name = "you"
   return ('Happy ${holiday}, ${name}!')
 }
 
 function holidayCountdown(days, holiday) {
-  days = '11'
-  holiday2 = 'Easter'
+  days = "11"
+  holiday2 = "Mother\'s Day"
   return ('It\'s ${days} until ${holiday2}!')
 }
