@@ -5,7 +5,13 @@ function happyHolidays() {
 
 function happyHolidaysTo(holiday, name) {
   holiday = "Easter"
-  name = "Percie"
+  name = "you"
+  return ('Happy holidays, ${name}!')
+}
+
+function happyHolidayTo(holiday, name) {
+  holiday = "Easter"
+  name2 = "Percie"
   return ('Happy ${holiday}, ${name}!')
 }
 
